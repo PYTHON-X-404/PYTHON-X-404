@@ -1,18 +1,79 @@
-<div align="center">
+# Hi, I'm Arafat 👋
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=80&lines=Hello+World!+👋;I'm+Arafat;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+### 🚀 Full Professional GitHub Profile
 
-<!-- Animated Profile Banner -->
-<img src="https://raw.githubusercontent.com/explorearafat/explorearafat/main/profile-banner.gif" alt="Profile Banner" width="100%"/>
+Welcome to my GitHub profile! I'm **Arafat**, a passionate developer, learner, and technology explorer. I love building digital solutions, experimenting with new technologies, and continuously improving my skills.
 
-<!-- Social Media Badges with Animation -->
-<p align="center">
-  <a href="mailto:arafatsgaming1@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=D14836" alt="Email" />
-  </a>
-  <a href="https://wa.me/8801610709657">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=25D366" alt="WhatsApp" />
+---
+
+## 🌐 All My Platforms
+
+**Username everywhere:** `explorearafat`
+
+You can find me on:
+
+* **GitHub:** [https://github.com/explorearafat](https://github.com/explorearafat)
+* **Facebook:** [https://facebook.com/explorearafat](https://facebook.com/explorearafat)
+* **Instagram:** [https://instagram.com/explorearafat](https://instagram.com/explorearafat)
+* **Twitter/X:** [https://twitter.com/explorearafat](https://twitter.com/explorearafat)
+* **LinkedIn:** [https://linkedin.com/in/explorearafat](https://linkedin.com/in/explorearafat)
+* **YouTube:** [https://youtube.com/@explorearafat](https://youtube.com/@explorearafat)
+
+> *If any platform doesn’t exist yet, I might add it later — but the username stays the same.*
+
+---
+
+## 📧 Contact Information
+
+* **Email:** `arafatsgaming1@gmail.com`
+* **WhatsApp / Contact:** `+8801610709657`
+
+Feel free to reach out for collaboration, projects, learning, or just tech talk.
+
+---
+
+## 💼 What I Do
+
+* 🔥 Frontend & Backend Development
+* 📱 Web & Mobile App Concepts
+* 🎨 UI/UX Experimentation
+* 🔍 Cybersecurity Learning & Ethical Exploration
+* 📚 Technology Research
+
+---
+
+## 🛠️ Tech Stack (Examples)
+
+**Languages:**
+
+* HTML, CSS, JavaScript, Python
+
+**Tools & Platforms:**
+
+* Git & GitHub
+* Linux / Termux
+* VS Code
+
+**Currently Learning:**
+
+* Advanced JS
+* API development
+* Automation scripts
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=explorearafat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=explorearafat\&layout=compact)
+
+---
+
+## 💬 Let's Connect
+
+If you enjoy technology, coding, or creative digital projects, let’s collaborate! I’m always open to new ideas.
+
+✨ **Thanks for visiting my profile!**
   </a>
   <a href="https://github.com/explorearafat">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=181717" alt="GitHub" />
